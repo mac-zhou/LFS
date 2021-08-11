@@ -1,1 +1,2 @@
 meiju-gettoken-only-china.apk filter=lfs diff=lfs merge=lfs -text
+Midea-Air-gettoken-only-oversea.apk filter=lfs diff=lfs merge=lfs -text
